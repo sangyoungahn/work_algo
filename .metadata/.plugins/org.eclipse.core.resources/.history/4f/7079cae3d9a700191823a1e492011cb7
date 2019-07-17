@@ -1,0 +1,13 @@
+
+
+public class CountingSort {
+
+	public static void main(String[] args) {
+		int[] arr = {1,2,3,4,2,1,1,2,1,0,4}; 
+		final int K = 4;
+//		int[] arr = new int[]
+		System.out.println(arr.length);
+		
+	}
+
+}

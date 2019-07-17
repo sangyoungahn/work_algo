@@ -1,0 +1,18 @@
+
+public class CountingSort2 {
+
+	public static void main(String[] args) {
+		int[] arr = {1,2,3,4,2,1,1,2,1,0,4}; 
+		
+		final int K  = 4;
+		int[] counting = new int[K];
+		int[] brr = new int[arr.length];
+		countingSort(arr, counting, brr, K);
+		
+	}
+	
+	static void countingSort(int[]  arr, int[] counting, int[] brr, int K) {
+		
+	}
+
+}
